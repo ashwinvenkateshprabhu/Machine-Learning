@@ -1,8 +1,7 @@
-AMAZON REVIEWS:
-——————————————————
-setwd(“~/AmazonReviews/“)
-Files in this project:
--------------------------
+## Amazon Baby Product reviews
+
+Set working directory - setwd(“~/AmazonReviews/“)
+
 AmazonReviews/AmazonDecisionTree.R - implements the decision tree algorithm. All the code is available in this file. Use the command ‘source(“AmazonDecisionTree.R”)’ to run this file in RStudio.
 
 AmazonReviews/negative-words.txt - consists of list of negative words that can occur in a review.
@@ -34,11 +33,10 @@ Running source(“AmazonReviews/AmazonDecisionTree.R”) will load the all the r
 amazon_baby_train.csv, amazon_baby_test.csv, negative-words.txt, positive-words.txt, should be present in the working directory. In the source code, the path is relative and the code will look for these files in the working directory. It is better to have all the files in this folder in the working directory.
 
 
-OPTICAL RECOGNITION HANDWRITTEN DIGITS:
-———————————————————————————————————————————
-setwd(“~/DigitRecognition/“)
-Files in this project:
--------------------------
+## OPTICAL RECOGNITION HANDWRITTEN DIGITS
+
+Setting working director - setwd(“~/DigitRecognition/“)
+
 DigitRecognition/DigitRecognition.R - implements the decision tree algorithm. All the code is available in this file. Use the command ‘source(“DigitRecognitionDecisionTree.R”)’ to run this file in RStudio.
 
 DigitRecognition/optdigits_raining.csv - training dataset for optical recognition for handwritten digits
