@@ -12,4 +12,4 @@ Six supervised learning algorithms are implemented.
 -> Support vector machines
 -> Naive bayes classification
 
-##Data used is placed in the folder. Make sure it is referenced properly before running the code.
+## Data used is placed in the folder. Make sure it is referenced properly before running the code.
